@@ -1,5 +1,6 @@
 # Welcome!
 
-Passionate software developer focused on creating innovative solutions and exploring new technologies.
+Passionate software developer currently working as an IT specialist at International Paper.        
 
+Very passionate about creating software that matters. 
 Let's code something amazing! 🚀
